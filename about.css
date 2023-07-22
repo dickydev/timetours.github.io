@@ -1,0 +1,31 @@
+main{
+    display: block;
+    width: 50%;
+    margin: 5% auto 0;
+    text-align: center;
+}
+
+main .about h1{
+    text-align: center;
+    color: darkorange !important;
+}
+
+main h3{
+    color: #2ec1ac;
+
+}
+
+main p{
+    color: black;
+}
+
+.description p{
+    text-align: justify;
+}
+
+.video-control{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50%;
+    
+}
